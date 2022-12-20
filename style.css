@@ -1,0 +1,194 @@
+
+
+body{
+
+
+
+background-color: #fefefe;
+
+
+}
+
+.header{
+
+
+    background-color: orangered;
+    border-bottom: 10px;
+    
+}
+
+ .header ul li {
+    
+    display:inline;
+    list-style: none;
+     padding-top: 15px;
+     text-decoration: none;
+     display: right;
+     font-size: larger;
+     margin-left: 50px;
+     
+
+ }
+ .h1{
+
+padding-top: 20Px;
+font-size: 28px;
+color: black;
+
+ }
+ 
+ .header ul li a{
+
+    color:black;
+
+ }
+
+
+.links{
+
+
+    display:inline;
+    margin-left: 150px;
+    padding: 20px 50px 0px 0px;
+    color:blue;
+    float: right;
+    
+}
+
+.header ul li a:link{
+
+    color:black;
+}
+
+
+
+.header ul li a:hover{
+
+
+    color:blue;
+    background-color:rgb(219, 155, 36);
+    border-radius: 5px;
+    padding: 5px;
+    text-decoration: none;
+    
+}
+
+.header ul li a:active{
+
+
+    color:brown;
+}
+
+.carousel.corousel-inner .carousel-item img{
+                align-items: center;
+                justify-content: center;
+                text-align: center;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  /* Float four columns side by side */
+  .column {
+    float: left;
+    width: 25%;
+    padding: 0 10px;
+  }
+  
+  /* Remove extra left and right margins, due to padding */
+  .row {margin: 0 -5px;}
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+  /* Responsive columns */
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+  
+  /* Style the counter cards */
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+
+  .para{
+
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+
+
+  }
+
+  .footer{
+
+    background-color: black;
+    background-position: center;
+    text-align: center;
+    color: aqua;
+    padding-right: 100px;
+    padding:0px ;
+
+
+
+  }
+
+  .about{
+
+
+     text-decoration: none;
+     list-style: none;
+     padding: 150px 0px 0px 100px;
+     float: left;
+
+
+  }
+
+  .socialmedia{
+
+    padding: 160px 0px 0px 200px;
+    font-size: 30px;
+   
+
+
+  }
+  .socialmedia i{
+    
+    padding-right:5px; 
+
+  }
+
+  body {
+    font-family: 'Raleway', sans-serif;
+  }
+  .bg-dark {
+    background-color: #105469 !important;
+  }
+  
+  .nav-item:hover {
+    color: #E2B842 !important;
+  }
+  
+  h1 {
+    color: black;
+    font-weight: 700;
+    padding-bottom: 50px;
+    
+  }
+  
+  
+  
+
+
